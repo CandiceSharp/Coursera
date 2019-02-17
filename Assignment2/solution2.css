@@ -32,7 +32,9 @@ text-orientation: right;
 position: relative;
 top:15px;
 left:10px;
-
+text-align: justify-all;
+margin bottom: 20px;
+margin-left: 20px;
 
 
 }
